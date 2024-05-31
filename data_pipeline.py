@@ -18,3 +18,5 @@ df['column'] = df['column'].apply(lambda x: x.strip().lower())
 
 # Transformation example
 df['new_column'] = df['existing_column'] / df['another_column']
+
+# holy molly
